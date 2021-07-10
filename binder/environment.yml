@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - plass
+  - megahit
+  - prodigal
+  - hmmer
+  - sra-tools
